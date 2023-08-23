@@ -17,7 +17,8 @@
 - As Java is close to C++ and C#, it makes it easy for programmers to switch to Java or vice versa<BR>
 
 <br><br>
-<img src="img/main.png">
+<img src="img/main.png"><br><br>
+ Cette ligne de commande a pour objet de démarrer une Machine Virtuelle Java, de désigner la classe principale, et de spécifier la valeur d'un certain nombre de paramètres du programme . Ces paramètres sont représentés par un tableau de chaînes de caractères, conventionnellement appelé args, qui est l'unique paramètre de la fonction main(). Lors de l'invocation de main(), les éléments de ce tableau, args[0], ..., args[args.length-1], sont initialisés par les chaînes de caractères (mots séparés par des espaces) figurant sur la ligne de commande après la classe principale<br><br>
 <img src="img/2.png"><br><br>
 <h2>Data Structure</h2>
 
@@ -47,7 +48,7 @@ Il n’existe pas de mot-clé pour déclarer une constante en Java. Même si con
   public static final int NOMBRE_DE_ROUES = 4;  
 <br><br><b>  La valeur de retour</b><br>
 Une méthode peut avoir au plus un type de retour. Le compilateur signalera une erreur s’il existe un chemin d’exécution dans la méthode qui ne renvoie pas le bon type de valeur en retour. Pour retourner une valeur, on utilise le mot-clé return. Si le type de retour est un objet, la méthode peut toujours retourner la valeur spéciale null, c’est-à-dire l’absence d’objet. Une méthode qui ne retourne aucune valeur, le signale avec le mot-clé void
-
+<br><br><img src="img/cl.png"><br><br>
 <br><br><b>Les paramètres</b><br>
 Un méthode peut éventuellement avoir des paramètres (ou arguments). Chaque paramètre est défini par son type et par son nom.
 <br><br><b>Paramètre final</b><br>
@@ -76,10 +77,9 @@ Il est possible de déclarer des méthodes particulières dans une classe que l�
 <br><b>Les énumérations X</b><br>
 Dans une application, il est très utile de pouvoir représenter des listes finies d’éléments. Par exemple, si une application a besoin d’une liste de niveaux de criticité, elle peut créer des constantes dans une classe utilitaire quelconque.
 <br><br>
-<img src="img/j.png"><br>
-<p style="text-align:center;"><br><img src="img/lk.png"><br></p>>
 
+<p style="text-align:center;"><br><img src="img/lk.png"><br></p>><img src="img/j.png"><br>
 <br><br><br><img src="img/sh.png"><br><br>
 <img src="img/stackheap.jpg">
 <img src="img/m.jpg"><br>
-<br><img src="img/deff.png"><br><br>
+<br><img src="img/deff.png">
