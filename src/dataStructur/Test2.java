@@ -3,6 +3,8 @@ package dataStructur;
 import java.util.ArrayList;
 import java.util.List;
 
+import entity.Medecin;
+
 public class Test2 {
 public static void main(String[] args) {//:cal the jvm
 	

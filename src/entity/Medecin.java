@@ -1,4 +1,7 @@
-package dataStructur;
+package entity;
+
+import dataStructur.User;
+import dataStructur.UserStatus;
 
 public class Medecin extends User {
 	public String prof;
