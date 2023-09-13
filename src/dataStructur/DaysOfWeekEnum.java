@@ -1,5 +1,9 @@
 package dataStructur;
 
+/**
+* @author Achref Hawari
+ *
+ */
 public enum DaysOfWeekEnum {
     SUNDAY,
     MONDAY,

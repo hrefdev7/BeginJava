@@ -1,5 +1,9 @@
 package dataStructur;
 
+/**
+* @author Achref Hawari
+ *
+ */
 public class User {
 	public int id; //ENCAPSULER LES ATTRIBUT USER 
 	public String nom;

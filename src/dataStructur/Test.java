@@ -2,6 +2,10 @@ package dataStructur;
 
 import java.util.Arrays;
 
+/**
+* @author Achref Hawari
+ *
+ */
 public class Test {
 
 	public static void main(String[] args) {

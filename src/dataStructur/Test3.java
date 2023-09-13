@@ -3,6 +3,10 @@ package dataStructur;
 import java.util.Stack;
 
 
+/**
+* @author Achref Hawari
+ *
+ */
 public class Test3 {
 	
 	public static void main(String[] args)

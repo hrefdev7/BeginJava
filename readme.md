@@ -2,6 +2,8 @@
  
 <h2>Introduction</h2>
 
+
+<b>Java</b> est le leader des langages de programmation et des plates-formes de développement. Il réduit les coûts, raccourcit les délais de développement, stimule l’innovation et améliore les services d’applications. Avec des millions de développeurs exécutant plus de 51 milliards de machines Java Virtual Machine dans le monde, Java reste la plateforme de développement de choix pour les entreprises et les développeurs.<br>
 <b>Why Use Java?<br>
 
 </b>
